@@ -10,5 +10,5 @@ This my first repository
 ~~cross out this test~~  
 <sub>subscript</sub>   
 
-<sup>superscript</sup>
+<sup>superscript</sup>  
 <ins>underlined</ins>  
