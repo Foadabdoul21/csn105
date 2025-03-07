@@ -8,4 +8,4 @@ This my first repository
 **this will be bold**  
 *italized*  
 ~~cross out this test~~  
-<
+<sub>subscript</sub> text  
