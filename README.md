@@ -5,7 +5,7 @@ this is camtest
 This my first repository
 
 ### Third Header
-**this will be bold**
-*italized*
-~~cross out this test~~
+**this will be bold**  
+*italized*  
+~~cross out this test~~  
 <
